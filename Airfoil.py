@@ -1,4 +1,4 @@
-B#!/usr/bin/env python
+#!/usr/bin/env python
 '''
 This module contains class for creating Airfoil objects that can be used as
 part of the aerodynamic framework. The objects of the Airfoil class support in
